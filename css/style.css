@@ -9,19 +9,101 @@ body{
 }
 div{
 background-color: #a8dde9;
-	padding: 100px 75px 50px 25px;
+	padding: 15px ;
 }
 
 nav{
     background-color: #a8dde9;
-    padding: 30px;
+    padding: 5px;
 a{
     text-decoration: none;
     color:#047F8C;
     font-family: "Josefin Sans";
   font-optical-sizing: 16px;
   font-style: normal;
-  margin-left: 30px;
+  margin-left: 150px;
   font-weight: 600;
   text-align: center;
+}
+}
+
+h1{
+    a{
+    font-family: "Josefin Sans";
+  font-optical-sizing: 37px;
+  font-style: normal;
+  margin-left: 320px;
+  font-weight: 600;
+  color: #3A400C;
+  text-decoration: none;
+  text-align: center;
+    }
+}
+h2{
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-weight: 22.5px;
+  margin-left: 20px;
+}
+h3{
+    font-family: "Josefin Sans";
+  font-optical-sizing: 18px;
+  font-style: normal;
+  margin-left: 20px;
+  font-weight: 600;
+  color: #047F8C;
+}
+
+img{
+    margin-left: 20px;
+}
+
+p{
+    font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 15px;
+  margin-left: 20px;
+  text-align: justify;
+  margin-right: 20px;
+}
+
+ul{
+    a{
+    font-family: "Josefin Sans";
+  font-optical-sizing: 16px;
+  font-style: normal;
+  margin-left: 30px;
+  font-weight: 600;
+  color: #3A400C;
+  text-decoration: none;
+    }
+}
+
+footer{
+   div{
+    background-color: rgb(55, 182, 182); }
+    a{
+    font-family: "Josefin Sans";
+  font-optical-sizing: 16px;
+  font-style: normal;
+  margin-left: 200px;
+  font-weight: 600;
+text-decoration: none;
+color: #3A400C;
+    }
+}
+footer{
+    background-color: rgb(55, 182, 182);}
+    p{
+        font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 15px;
+  margin-left: 20px;
+  text-align: center;
+  color: #3A400C;
+    }
+
 }
