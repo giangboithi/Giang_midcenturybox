@@ -1,3 +1,27 @@
 /* remember that style sheets cascade, so whatever is on the bottom will override whats on top. Don't have multiple statements for the same element. Organization and hierarchy are key, start with larger elements and work your way down.
 
+
 Do they best you can with this, talk with each other and help each other. Most colors and fonts are provided for you. Use adobe color to find the other colors from the sample image.*/
+body{
+    background-color: #ffa774;
+   margin-left: 120px;
+   margin-right: 120px;
+}
+div{
+background-color: #a8dde9;
+	padding: 100px 75px 50px 25px;
+}
+
+nav{
+    background-color: #a8dde9;
+    padding: 30px;
+a{
+    text-decoration: none;
+    color:#047F8C;
+    font-family: "Josefin Sans";
+  font-optical-sizing: 16px;
+  font-style: normal;
+  margin-left: 30px;
+  font-weight: 600;
+  text-align: center;
+}
